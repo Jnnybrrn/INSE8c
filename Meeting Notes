@@ -1,6 +1,6 @@
 Software Engineering Meeting Note
 
-3rd November 2014
+--3rd November 2014--
 George, Jon, Abdulrazaq, Dipo
 
 We met in the library to distrubute sheets to those not present for the handout. We introduced ourselves and very brielfy went over the coursework spec. It became apparent that we needed to thoroughly read this and take notes so we just discussed our strengths, weaknesses and ideas. We briefly touched on who would like each role but mainly used this as an introduction and decided the work to be done for the next meeting.
@@ -11,7 +11,7 @@ Select what role you wish to take (NOT coding roles project roles) etc Team secr
 Ask Kit the limitations of using pre built software, if we even can use excel/ docs.
 Come up with suggested languages with reasons.
 
-8th November 2014
+--8th November 2014--
 Stewart, George, Jon, Abdulrazaq
 
 In the second meeting. Bringing our notes and ideas back we decided today we need to figure out. What we will build, who it will be for and what we will use to build it. In addition we would like to figure out who take what managerial roles. 
@@ -22,7 +22,7 @@ Clunky, only works on one format, requires installing, not mobile friendly.
 Java
 Requires compiler / interpreter making d/l large. Could be mobile friendly IF made into app but otherwise one platform.
 Python
-Prior experience says python really doesn’t work well it.
+Prior experience says python really doesn’t work well.
 Web
 Need to configure client and server side seperately. Portable will work on all, with just minor CSS changes. More user friendly as needs no install.
 Pure Tablet / Mobile
@@ -32,11 +32,11 @@ We have chosen to go with Web for now as it seems most appropriate.
 
 What : We envision a front page which has options to add, remove, edit and a list of items. From this central data we can generate the different charts.
 
-Who: Students mainly, we are going to distribute a survey to get some ideas for how to ake the UI etc
+Who: Students mainly, we are going to distribute a survey to get some ideas for how to make the UI etc
 
 Platform & tech : Graphics - Canvas or SVG / combo / webpage
-	                  Database - for file purposes and generating bits
-		       UI - web, php and js mainly forms. As neat as possible. Simple
+	          Database - for file purposes and generating bits
+		  UI       - web, php and js mainly forms. As neat as possible. Simple
 
 WHO DOES WHAT?
 
