@@ -202,7 +202,7 @@ Read thru /Libraries on the Git, get familiar with the options.
 Take notes and bring cool ideas to next meeting.
 
 --26th November 2014--
-George, Jon,Abdulrazaq
+George, Jon,Abdulrazaq, Dipo
 No one brought cool ideas.
 
 Data storage - What type of data are we going to be storing 
@@ -218,6 +218,21 @@ Database -
         https://www.dropbox.com/developers/datastore/tutorial/js
         
         Code to implement and query from database looks good.
+        
+Met after the Tutorial, had a look for Graphics, which we have chosen to use JSGL because of its lightweight and simplicity. 
+For the data storage we are still deciding between Cloud vs Database on Server. 
+To be able to decide whether the product needs to be online? Or can be ran via LocalHost. If we need to have a hosting server for the website anyway then implimenting an Apache server makes sense.
+George made a digital copy of the WBT -> Which is to be added to the Report.
+Initially drafted some of the text for the Report which is currently on GitHub. Needs additions and formatting.
+
+To Do Before Next Meeting:
+All to research WHAT HOW WHY - Re. Pert Charts.
+
+To Do Next Meeting:
+Come up with what DATA needs to be stored, ie. Tables and their attributes?
+Turn the WBT into a PERT Chart & If time, GANTT chart also.
+Get a start on the presentation.
+
         
         
 
