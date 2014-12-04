@@ -1,11 +1,13 @@
 Front page:
 Introduction to Software Engineering.
 Team 8c - PID Report
-Introduction PHDeasyGantt
+Introduction PHDeasyGantt ########## Need to think of new name since phd students arn't in their 3rd year ##########
 
-####Some sort of introduction####
+Our aim is to create a program that will help students in their final year plan group projects. This will help them by automatically
+creating a Work Breakdown Tree(WBT), PERT and Gantt charts. This will be a website so that there is no tedius program downloads,
+it will all be neatly saved online and accessable from anywhere. Our decisions made will be dicussed further in the report.
 
-We made a start by assigning the managerial roles. George was the progress chaser because was quite pro active and had not 
+We started by assigning the managerial roles. George was the progress chaser because was quite pro active and had not 
 missed any of the inital meetings. Jon was the secutary because from the start he was naturally taking notes, we felt that he
 suited being the sectutary best. Stewart had a keen intrest in learning the VCS Git Hub, so he was assigned the git master. Dipo
 was assigned the webmaster role, studying the optional unit web scripting he thought that he was best suited. Similarly, Abdulrazaq
