@@ -2,16 +2,64 @@ Front page:
 Introduction to Software Engineering.
 Team 8c - PID Report
 Introduction PHDeasyGantt ########## Need to think of new name since phd students arn't in their 3rd year ##########
+INSE – PID Report
+Team – 8c
+Proposal for 
+Project Planning Web Application 
+ID	Job 	Secondary Job	Reason
+703451	Git Master 	Database Master	Strong interest in learning a new VCS (GitHub)
+661670	Secretary 	Web Master	Naturally took notes at the start, this transitioned into a natural choice.
+694449	Web Master	Secretary	Studying the optional unit, web scripting.
+694693	Progress chaser	Git Master	Pro-active and motivated, never missed a meeting.
+711500	Database	Progress chaser	Studying Computing, so a lot of that involves Databases.
 
-Our aim is to create a program that will help students in their final year plan group projects. This will help them by automatically
-creating a Work Breakdown Tree(WBT), PERT and Gantt charts. This will be a website so that there is no tedius program downloads,
-it will all be neatly saved online and accessable from anywhere. Our decisions made will be dicussed further in the report.
+All team members have actively attended and contributed to work done.
+Our aim is to create a program that will help students in their final year plan group projects. This will help them by automatically creating a Work Breakdown Tree (WBT), PERT and Gantt charts. This will be a website so that there is no tedious program downloads, it will all be neatly saved online and accessible from anywhere. Our decisions made will be discussed further in the report.
+We started by assigning the managerial roles. George was the progress chaser because was quite proactive and had not missed any of the initial meetings. Jon was the secretary because from the start he was naturally taking notes, we felt that he suited being the secretary best. Stewart had a keen interest in learning the VCS Git Hub, so he was assigned the git master. Dipo was assigned the webmaster role, studying the optional unit web scripting he thought that he was best suited. Similarly, Abdulrazaq is studying computing which involves a lot of database design, he felt he would be best suited for the database master.
+Reasons for aiming at final year students
+Final year consists of a big project, meaning final year students are most in need of time management software so they can make comprehensive plans and use and update them throughout their project. In prior years the projects are all too small to really justify three separate planning documents.
+Choosing a platform 
+Initially we felt that web would be the best platform to use. But after looking into is further we realised that only two of us are studying the optional unit web scripting. We felt because of this we may run into problems so we looked at the other options. 
+For desktop application: 
+•	Pros
+o	Once downloaded, would be very quick and secure. 
+o	Files could be saved locally, which is the simplest and quickest solution.
+o	Runs off users hardware, no computational costs for us. 
+•	Cons
+o	Clunky, only works on one platform, not very compatible. Also requires installation or an interpreter/ complier download. 
+o	Not portable, user session doesn’t follow user from one place to another. 
+o	Updates require a patch to be installed.
+For web application 
+•	Pros 
+o	Portable, because of online storage(Database/ cloud) means the session can be picked up from anywhere.
+o	Cross platform, can access it from any device with a browser.
+o	No additional software to download.
+o	Can be lightweight and responsive with client-side scripting.
+o	Quick and easy updates.
+•	Cons 
+o	Requires internet access, cannot be used offline.
+o	Need to configure client and server side separately.
+o	Real world implementation requires physical hosting.
 
-We started by assigning the managerial roles. George was the progress chaser because was quite pro active and had not 
-missed any of the inital meetings. Jon was the secutary because from the start he was naturally taking notes, we felt that he
-suited being the sectutary best. Stewart had a keen intrest in learning the VCS Git Hub, so he was assigned the git master. Dipo
-was assigned the webmaster role, studying the optional unit web scripting he thought that he was best suited. Similarly, 
-Abdulrazaq is studying computing which involves a lot of database design, he felt he would be best suited for the database master.
+				
+For a mobile application
+•	Pros
+o	A lot of people solely use their phones and mobile apps typically work better than web mobile sites. 
+o	All installation and updates is handled by phone marketplaces IOS/ Android.
+o	Could link to inbuilt phone calendar for increased functionality.
+•	Cons
+o	You have to develop a separate app for each platform, which is costly and time consuming.
+o	Less demand for complex planning charts on a small, touchscreen device.
+o	The more functionality we add, the more battery life it would use and the less the user would want to use it day to day.
+o	UI would have to work on devices of various sizes.
+
+After looking at the pros and cons of the other platforms we decided that regardless of what platform we choose we’re going to run into problems and we’ll have to learn new skills and languages. So we decided to choose for what we wanted to create not what we already knew how to do.
+
+Choosing libraries and languages 
+
+
+PERT table of prerequisites 
+
 
 ####Expand on why we chose students in their final year as our target clients####
 ####Also expand on Language and package choices#####
