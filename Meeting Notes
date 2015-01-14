@@ -298,3 +298,17 @@ Next Meeting ->
 Practice practice practice... 1-5
 More practice 6-????
 
+--14th JAN -- HAPPY NEW YEAR! -- 10 - 
+Jon, George, Stewart
+
+Started looking at the design of the program. Working out how the buttons and forms would flow. 
+Discussed where to go from here and how to start creating the software. 
+
+	Graph form infomation: 
+WBT: Hierarchy, Name
+PERT: Start Date X2, End date, Discription, Name, Critical Items
+GANTT: Start Date, End date, Name, PreRequisite, Hierarchy 
+	Total: 
+Name, Discription, Start Date, End Date, Hierarchy, PreRequisites, Seed/ Owner ID(Relate to session), Critical Items.
+
+Edited Kit 
