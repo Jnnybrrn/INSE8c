@@ -376,6 +376,7 @@ http://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-l
 -- 1 Feb -- 1400 - 1600 
 Stew, Abdul, Jon, George, Dipo
 
+ 
 Made a database containing 2  tables - data and user 
 Data
 	Task_ID
@@ -394,5 +395,12 @@ User
 Unique key randomiser completed 
 Look into PDO
 
+Continued making ui, made another page.
+Written javascript for making random seed. 
+JS for selecting charts.
 
 
+	FOR NEXT TIME
+	
+Get form data to database. 
+	
