@@ -371,3 +371,28 @@ http://prntscr.com/5y2s4j
 Great link w/ lots about Bootstrap:
 
 http://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers/
+
+
+-- 1 Feb -- 1400 - 1600 
+Stew, Abdul, Jon, George, Dipo
+
+Made a database containing 2  tables - data and user 
+Data
+	Task_ID
+	Name
+	Description 
+	Start Date
+	End Date 
+	Prerequisites 
+	Critial
+	
+User
+	User_ID
+	Table_ID
+	Chart_ID
+
+Unique key randomiser completed 
+Look into PDO
+
+
+
