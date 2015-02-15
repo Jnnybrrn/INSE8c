@@ -423,3 +423,13 @@ finish put.php
 make - delete/other apis. 
 tidy ui ( implement some things that arent working .
 
+
+--- 15th Feburary-----
+George, Abdul, Jon
+
+George and Abdul looked at existing site and wrote down erors and small things to do. 
+We also looked at JSGL and had a quick play with it. 
+
+Jon Worked on getting the form submit button working. 
+He has got to the point where the form data is stored in php variables. 
+
