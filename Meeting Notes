@@ -433,3 +433,14 @@ We also looked at JSGL and had a quick play with it.
 Jon Worked on getting the form submit button working. 
 He has got to the point where the form data is stored in php variables. 
 
+--- 18th Feburary ---
+George, Jon, Abdul, Dipo 
+
+Jon has now made it so the variables saved from submitting a task is put in the database then grabbed back as variables. 
+Then they are displayed in the table on the page. 
+He has also made a delete function work. This simpily deletes a certian task from a table using the id. 
+
+We now need to link up the delete function to the clear buttons. 
+
+
+
