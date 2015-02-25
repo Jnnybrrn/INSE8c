@@ -441,6 +441,12 @@ Then they are displayed in the table on the page.
 He has also made a delete function work. This simpily deletes a certian task from a table using the id. 
 
 We now need to link up the delete function to the clear buttons. 
+-----------25th febuary------------
+we were implementing the delete buttons but encountered problem .
+stewart got the git working and george learnt a little bit of java
+
+to do next 
+we ae going to keep working on it . 
 
 
 
